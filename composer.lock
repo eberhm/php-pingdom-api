@@ -1,0 +1,23 @@
+{
+    "hash": "6d4af276a2b6bf3d1b18d788c6b83e12",
+    "packages": [
+        {
+            "package": "guzzle/guzzle",
+            "version": "v2.7.2"
+        },
+        {
+            "package": "symfony/event-dispatcher",
+            "version": "v2.0.16"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ]
+}

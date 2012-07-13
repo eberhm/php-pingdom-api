@@ -1,0 +1,18 @@
+{
+    "name": "eherrera/php-pingdom-api",
+    "description": "PHP Pingdom test API para formacion Emagister",
+    "require": {
+        "guzzle/guzzle": "v2.7.2"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Emagister" : "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eber Herrera",
+            "email": "eberhm@gmail.com"
+        }
+    ]
+}
